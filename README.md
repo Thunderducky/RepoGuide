@@ -13,7 +13,7 @@ Starter kits are just projects I use to quickly start new projects so I'm not re
 A basic starter kit with react and express (no db)
 
 ### [webpack-express-starter](https://github.com/Thunderducky/webpack-express-starter)
-Webpack and express, for when I don't want to use react, but still want to use ES6 modules
+Webpack and express, for when I don't want to use react, but still want to use ES6 modules (also no db)
 
 ## Example Applications
 
