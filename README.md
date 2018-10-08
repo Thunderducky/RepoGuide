@@ -26,6 +26,9 @@ A simple program that can upload files to an AWS S3 bucket
 ### [my-blog](https://github.com/Thunderducky/my_s3)
 An ugly but functional full stack application meant to demo integration with [auth0](https://auth0.com/)
 
+### [mernmernmern_discoinferno](https://github.com/Thunderducky/mernmernmern_discoinferno)
+An example react app with a silly name
+
 #### Auth Examples
 **[barebonesauth](https://github.com/Thunderducky/barebonesauth)**  
 **[simpleauth](https://github.com/Thunderducky/simpleauth)**
