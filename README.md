@@ -31,7 +31,7 @@ An ugly but functional full stack application meant to demo integration with [au
 **[simpleauth](https://github.com/Thunderducky/simpleauth)**
 
 #### Code Snippets
-**[url_sequencer]https://github.com/Thunderducky/url_sequencer**
+**[url_sequencer](https://github.com/Thunderducky/url_sequencer)**
 A code snippet for calling urls sequentially
 
 #### Old Games I Made
